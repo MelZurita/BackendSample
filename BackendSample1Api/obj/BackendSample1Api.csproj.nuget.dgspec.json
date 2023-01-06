@@ -1,0 +1,202 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Internet\\source\\repos\\BackendSample1\\BackendSample1Api\\BackendSample1Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Internet\\source\\repos\\BackendSample1\\BackendSample1Api\\BackendSample1Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Internet\\source\\repos\\BackendSample1\\BackendSample1Api\\BackendSample1Api.csproj",
+        "projectName": "BackendSample1Api",
+        "projectPath": "C:\\Users\\Internet\\source\\repos\\BackendSample1\\BackendSample1Api\\BackendSample1Api.csproj",
+        "packagesPath": "C:\\Users\\Internet\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Internet\\source\\repos\\BackendSample1\\BackendSample1Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Internet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/rcanoa-ucb/Backend-Ucb-Nacional/_packaging/NuGet-Ucb-Security/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Internet\\source\\repos\\BackendSample1\\BackendSample1Core\\BackendSample1Core.csproj": {
+                "projectPath": "C:\\Users\\Internet\\source\\repos\\BackendSample1\\BackendSample1Core\\BackendSample1Core.csproj"
+              },
+              "C:\\Users\\Internet\\source\\repos\\BackendSample1\\BackendSample1Infraestructure\\BackendSample1Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\Internet\\source\\repos\\BackendSample1\\BackendSample1Infraestructure\\BackendSample1Infraestructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Internet\\source\\repos\\BackendSample1\\BackendSample1Core\\BackendSample1Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Internet\\source\\repos\\BackendSample1\\BackendSample1Core\\BackendSample1Core.csproj",
+        "projectName": "BackendSample1Core",
+        "projectPath": "C:\\Users\\Internet\\source\\repos\\BackendSample1\\BackendSample1Core\\BackendSample1Core.csproj",
+        "packagesPath": "C:\\Users\\Internet\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Internet\\source\\repos\\BackendSample1\\BackendSample1Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Internet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/rcanoa-ucb/Backend-Ucb-Nacional/_packaging/NuGet-Ucb-Security/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Internet\\source\\repos\\BackendSample1\\BackendSample1Infraestructure\\BackendSample1Infraestructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Internet\\source\\repos\\BackendSample1\\BackendSample1Infraestructure\\BackendSample1Infraestructure.csproj",
+        "projectName": "BackendSample1Infraestructure",
+        "projectPath": "C:\\Users\\Internet\\source\\repos\\BackendSample1\\BackendSample1Infraestructure\\BackendSample1Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\Internet\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Internet\\source\\repos\\BackendSample1\\BackendSample1Infraestructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Internet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/rcanoa-ucb/Backend-Ucb-Nacional/_packaging/NuGet-Ucb-Security/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Internet\\source\\repos\\BackendSample1\\BackendSample1Core\\BackendSample1Core.csproj": {
+                "projectPath": "C:\\Users\\Internet\\source\\repos\\BackendSample1\\BackendSample1Core\\BackendSample1Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

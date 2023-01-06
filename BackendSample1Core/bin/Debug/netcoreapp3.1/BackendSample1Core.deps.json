@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BackendSample1Core/1.0.0": {
+        "runtime": {
+          "BackendSample1Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BackendSample1Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

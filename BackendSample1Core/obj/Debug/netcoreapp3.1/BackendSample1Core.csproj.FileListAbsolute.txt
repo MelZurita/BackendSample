@@ -1,0 +1,10 @@
+C:\Users\Internet\source\repos\BackendSample1\BackendSample1Core\bin\Debug\netcoreapp3.1\BackendSample1Core.deps.json
+C:\Users\Internet\source\repos\BackendSample1\BackendSample1Core\bin\Debug\netcoreapp3.1\BackendSample1Core.dll
+C:\Users\Internet\source\repos\BackendSample1\BackendSample1Core\bin\Debug\netcoreapp3.1\BackendSample1Core.pdb
+C:\Users\Internet\source\repos\BackendSample1\BackendSample1Core\obj\Debug\netcoreapp3.1\BackendSample1Core.csproj.AssemblyReference.cache
+C:\Users\Internet\source\repos\BackendSample1\BackendSample1Core\obj\Debug\netcoreapp3.1\BackendSample1Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Internet\source\repos\BackendSample1\BackendSample1Core\obj\Debug\netcoreapp3.1\BackendSample1Core.AssemblyInfoInputs.cache
+C:\Users\Internet\source\repos\BackendSample1\BackendSample1Core\obj\Debug\netcoreapp3.1\BackendSample1Core.AssemblyInfo.cs
+C:\Users\Internet\source\repos\BackendSample1\BackendSample1Core\obj\Debug\netcoreapp3.1\BackendSample1Core.csproj.CoreCompileInputs.cache
+C:\Users\Internet\source\repos\BackendSample1\BackendSample1Core\obj\Debug\netcoreapp3.1\BackendSample1Core.dll
+C:\Users\Internet\source\repos\BackendSample1\BackendSample1Core\obj\Debug\netcoreapp3.1\BackendSample1Core.pdb
