@@ -9,9 +9,5 @@
     <ProjectReference Include="..\BackendSample1Infraestructure\BackendSample1Infraestructure.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Controllers\" />
-  </ItemGroup>
-
 
 </Project>
